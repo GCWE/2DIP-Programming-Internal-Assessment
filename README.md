@@ -33,8 +33,8 @@ $ python
 This downloads the "bare bones" model through which the neural network can be built on my own data.
 
 ### Note:
-This program does not at all intend to replace traditional diagnosis methods - it does, however, aim to provide users particularly with low access to medical services to get a simple diagnosis without fear of the constraints on time or money.
+GPMe does not at all intend to replace traditional diagnosis methods - it does, however, aim to provide users particularly with low access to medical services to get a simple diagnosis without fear of the constraints on time or money.
 
-The hope is that one day this program transcends to assist the medical field where finance hits hardest.
+The hope is that one day GPMe will transcend to assist the medical field where finance hits hardest.
 
 ~ Gladon Chua ⚕️
