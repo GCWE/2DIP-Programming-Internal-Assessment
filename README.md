@@ -33,6 +33,6 @@ This downloads the "bare bones" model through which the neural network can be bu
 ### Note:
 This program does not at all intend to replace traditional diagnosis methods - it does, however, aim to provide users particularly with low access to medical services to get a simple diagnosis without fear of the constraints on time or money.
 
-The hope is that this program one day transcends to assist the medical field where finance hits hardest.
+The hope is that one day this program transcends to assist the medical field where finance hits hardest.
 
 ~ Gladon Chua
