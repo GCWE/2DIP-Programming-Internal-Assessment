@@ -1,4 +1,4 @@
-# 2DIP Programming Internal Assessment - GPMe
+# 👩‍⚕️ 2DIP Programming Internal Assessment - GPMe 👨‍⚕️
 
 ## Brief
 A program for diagnosing simple illnesses, through a Feed Forward Neural Network - this makes use of probability to determine the accuracy of the produced result.
@@ -37,4 +37,4 @@ This program does not at all intend to replace traditional diagnosis methods - i
 
 The hope is that one day this program transcends to assist the medical field where finance hits hardest.
 
-~ Gladon Chua
+~ Gladon Chua ⚕️
