@@ -5,7 +5,7 @@ A program for diagnosing simple illnesses, through a Feed Forward Neural Network
 
 Each of the above folders contains individual iterations of the program - the first two are text-based, while the final three are GUI-based (constructed using Tkinter and Figma).
 
-I have chosen to add the datafile only to Versions 1 and 2 of the program - this is because Versions 3, 4 and 5 all have integrated tools for creating the file if it isn't present. I have thus intentionally removed them to exhibit the development in the program, as well as to provide the user with further confidence that the program is working.
+Note that while all version contain a datafile, Versions 3, 4 and 5 all have integrated tools for creating the file if it isn't present. The datafile was only added because last three versions of the program have a longer training time for the neural network (since I wanted the program the maintain some accuracy in its output even with a larger dataset.
 
 
 ## Requirements
