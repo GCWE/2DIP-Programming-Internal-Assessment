@@ -1,0 +1,207 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi there",
+                "How are you",
+                "Is anyone there?",
+                "Hey",
+                "Hi",
+                "Hello",
+                "Good day"
+            ],
+            "responses": [
+                "Hello!",
+                "Hey, how're you doing?",
+                "Good to see you!"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Nice chatting to you",
+                "See you",
+                "Good night"
+            ],
+            "responses": [
+                "Bye! Come back again soon.",
+                "Goodbye!",
+                "See you later!"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Awesome, thanks",
+                "Thanks for helping me"
+            ],
+            "responses": [
+                "You're welcome.",
+                "No problem!"
+            ]
+        },
+        {
+            "tag": "headache",
+            "patterns": [
+                "Why does my head hurt?",
+                "My head hurts",
+                "My head's in pain",
+                "I think I have a headache",
+                "I have a headache",
+                "I have headache"
+            ],
+            "responses": [
+                "Hmm... try holding an ice pack over your forehead, having a good sleep or taking a break from any stress you might be having!"
+            ]
+        },
+        {
+            "tag": "allergies",
+            "patterns": [
+                "I have allergies",
+                "I'm having an allergic reaction",
+                "I touched latex",
+                "I ate shellfish",
+                "I ate seafood",
+                "I ate something I shouldn't have",
+                "Allergic reaction"
+            ],
+            "responses": [
+                "I recommend taking antihistamines, decongestants, an anti-inflammatory agent (like corticosteroid) or an allergy shot (if you have one)."
+            ]
+        },
+        {
+            "tag": "cold",
+            "patterns": [
+                "I caught a cold",
+                "I have the flu",
+                "I have a fever",
+                "I have fatigue",
+                "I feel feverish"
+            ],
+            "responses": [
+                "It may be wise to head to your local doctor - drink lots of water, rest a lot and eat healthy."
+            ]
+        },
+        {
+            "tag": "conjunctivitis",
+            "patterns": [
+                "My eye is itchy",
+                "My eye is red",
+                "Pus came out of my eye",
+                "My eye is pink",
+                "My eye is crusty",
+                "My eye hurts",
+                "I have an itchy eye"
+            ],
+            "responses": [
+                "You may have conjunctivitis - it's highly contagious, so wash your hands and avoid touching your eyes anymore. If your condition does not get better in 2-3 days of occurrence, visit your local doctor."
+            ]
+        },
+        {
+            "tag": "nausea",
+            "patterns": [
+                "I feel nauseous",
+                "I feel like vomiting",
+                "I vomited",
+                "I'm puking",
+                "I just puked"
+            ],
+            "responses": [
+                "Nausea/Vomiting may be a sign of something worse - after 30-60 minutes of vomiting drink some water or milk, and only return to a regular/easy-to-digest diet after 8 hours. Alert a doctor if things get worse (e.g. vomiting a bit of blood)."
+            ]
+        },
+        {
+            "tag": "back pain",
+            "patterns": [
+                "My back hurts",
+                "I have back pain",
+                "I can't bend my back",
+                "My back is stiff"
+            ],
+            "responses": [
+                "Back pain has many causes - while it will probably recover within weeks, staying active and stretching can speed up the process."
+            ]
+        },
+        {
+            "tag": "sore throat",
+            "patterns": [
+                "I have a sore throat",
+                "My throat is sore",
+                "My throat is itchy",
+                "It's hard to swallow",
+                "My throat is swollen"
+            ],
+            "responses": [
+                "Sore throat may be a sign of something more serious - drink lots of water, suck ice cubes and get plenty of rest."
+            ]
+        },
+        {
+            "tag": "sinusitis",
+            "patterns": [
+                "I have a blocked nose",
+                "My mucus is green",
+                "My eyes feel swollen",
+                "My cheeks feel swollen",
+                "My nose feels inflamed",
+                "I have a lot of mucus",
+                "My nose feels stuffy"
+            ],
+            "responses": [
+                "Sinus is often self-treating - get lots of sleep, lots of fluid and avoid smoking."
+            ]
+        },
+        {
+            "tag": "bronchitis",
+            "patterns": [
+                "My chest hurts",
+                "My chest feels uncomfortable",
+                "I have bronchitis",
+                "I'm wheezing",
+                "I have lots of phlegm",
+                "I'm coughing a lot",
+                "I feel short of breath"
+            ],
+            "responses": [
+                "Sounds like bronchitis - eat honey, drink water, sleep lots and avoid contact with others where possible."
+            ]
+        },
+        {
+            "tag": "stomachache",
+            "patterns": [
+                "I feel bloated",
+                "I have a stomachache",
+                "stomach ache",
+                "My stomach hurts",
+                "I'm farting a lot",
+                "I have indigestion"
+            ],
+            "responses": [
+                "Stomachaches should be treated as soon as possible - talk to a doctor about medication and causes if the pain grows or its hard to swallow food."
+            ]
+        },
+        {
+            "tag": "insect bite",
+            "patterns": [
+                "I have an insect bite",
+                "I have an itchy bump",
+                "I have a red lump",
+                "My leg is really itchy",
+                "My arm is very itchy",
+                "I got stung by an insect",
+                "I have a mosquito bite",
+                "I got stung by a bee",
+                "I got stung by a wasp"
+            ],
+            "responses": [
+                "Wash the bite site with water, apply something cold to the infected area and avoid scratching - visit a doctor if it remains for a few days."
+            ]
+        }
+    ]
+}
