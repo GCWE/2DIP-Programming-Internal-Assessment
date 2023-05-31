@@ -1,0 +1,43 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hi", "Hello", "Good day"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you", "See you", "Good night"],
+         "responses": ["See you!", "Have a nice day!", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["My pleasure.", "You're welcome."],
+         "context": [""]
+        },
+        {"tag": "headache",
+         "patterns": ["Why does my head hurt?", "My head hurts", "My head's in pain", "I think I have a headache", "I have a headache", "I have headache", "Headache"],
+         "responses": ["Hmm... try holding an ice pack over your forehead, having a good sleep or taking a break from any stress you might be having!"],
+         "context": [""]
+        },
+        {"tag": "allergies",
+         "patterns": ["I have allergies", "I'm having an allergic reaction", "I touched latex", "I ate shellfish", "I ate something I shouldn't have", "Allergic reaction"],
+         "responses": ["I recommend taking antihistamines, decongestants, an anti-inflammatory agent (like corticosteroid) or an allergy shot (if you have one)."],
+         "context": [""]
+        },
+        {"tag": "cold",
+         "patterns": ["I caught a cold", "I have the flu", "I have a fever", "I have fatigue", "I feel feverish"],
+         "responses": ["It may be wise to head to your local doctor - drink lots of water, rest a lot and eat healthy."],
+         "context": [""]
+        },
+        {"tag": "conjunctivitis",
+         "patterns": ["My eye is itchy", "My eye is red", "Pus came out of my eye", "My eye is pink", "My eye is crusty", "My eye hurts", "I have an itchy eye"],
+         "responses": ["You may have conjunctivitis - it's highly contagious, so wash your hands and avoid touching your eyes anymore. If your condition does not get better in 2-3 days of occurrence, visit your local doctor."],
+         "context": [""]
+        },
+        {"tag": "nausea",
+         "patterns": ["I feel nauseous", "I feel like vomiting", "I vomited", "I'm puking", "I just puked"],
+         "responses": ["Nausea/Vomiting may be a sign of something worse - after 30-60 minutes of vomiting drink some water or milk, and only return to a regular/easy-to-digest diet after 8 hours. Alert a doctor if things get worse (e.g. vomiting a bit of blood)."],
+         "context": [""]
+        }
+    ]
+}
