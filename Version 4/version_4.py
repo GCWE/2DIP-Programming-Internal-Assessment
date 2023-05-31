@@ -30,14 +30,6 @@ from nltk_utils import bag_of_words, tokenize
 # Used to identify whether the datafile exists
 import os.path
 
-# The Python regex module
-import re
-
-# For sending emails securely
-from email.message import EmailMessage
-import ssl
-import smtplib
-
 # If the datafile has not yet been created, the training file will be run
 if os.path.isfile("./data.pth") == False:
     import train
